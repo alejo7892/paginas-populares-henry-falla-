@@ -1,0 +1,93 @@
+body {
+    
+    background-size: cover;
+    border-radius: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+.cuerpo1
+{
+    background-image: url(/images/gamer3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.cuerpo2{
+    background-image: url(/images/gamer3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    background: linear-gradient(to right, #d01a1a 0%, #5d4157 100%);
+    color: black;
+    padding: 10px 50px;
+
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid  #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen {
+    width: 450px;
+    right: 100px;
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen1 {
+    width: 450px;
+    right: 100px;
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen2 {
+    width: 450px;
+    right: 100px;
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    border-top: 5px solid #a40404;
+    border-right: 5px double white;
+    border-bottom: 5px solid #a40404;
+    border-left: 5px double white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vid{
+    text-align: center;
+
+}
+
+.clear {
+    clear: both;
+
+}
